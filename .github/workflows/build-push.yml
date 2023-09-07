@@ -1,4 +1,4 @@
-name: build-push-sign
+name: unsigned-build
 
 on:
   push:
